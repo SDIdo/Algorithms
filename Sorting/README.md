@@ -5,7 +5,7 @@
 ### ⬚ InsertionSort 
 ### ⬚ Heapsort
 ### ⬚ Quicksort
-### ⬚ MergeSort
+### ☑ MergeSort
 ### ⬚ In-placeMergeSort
 
 ### ⬚ Introsort
